@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevStarDustLinks é um agregador de links para usar como cartão de visitas online.
+O TerradonuncaBoutiqueLinks é um agregador de links para usar como cartão de visitas online.
 
 
 
